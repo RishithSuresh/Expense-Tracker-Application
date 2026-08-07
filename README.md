@@ -8,10 +8,13 @@ The application provides the following features:
 
 Add Expense:
 The user enters the expense date, category, amount, and an optional note. The program validates the date format (YYYY-MM-DD) and ensures that the amount entered is greater than zero before saving the record to the CSV file.
+
 View All Expenses:
 Displays all recorded expenses in a neatly formatted table showing the date, category, amount, and note. It also calculates and displays the total amount spent by summing all recorded expenses.
+
 Category-wise Summary:
 Groups expenses based on their categories (such as Food, Travel, Shopping, etc.) and calculates the total spending for each category. This helps users understand where most of their money is being spent.
+
 Exit:
 Allows the user to safely terminate the program.
 
